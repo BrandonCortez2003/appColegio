@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">appColegio</string>
+    <string name="labelNombre">Ingrese Nombre</string>
+    <string name="labelPaterno">Ingrese Paterno</string>
+    <string name="labelMaterno">Ingrese Materno</string>
+    <string name="labelSexo">[Seleccione Sexo]</string>
+    <string name="labelHijos">Ingrese Hijos</string>
+    <string name="labelSueldo">Ingrese Sueldo</string>
+    <string name="labelDireccion">Ingrese Dirección</string>
+    <string name="labelDistrito">[Seleccione Distrito]</string>
+    <string-array name="arregloSexos">
+        <item>Masculino</item>
+        <item>Femenino</item>
+    </string-array>
+
+
+</resources>
